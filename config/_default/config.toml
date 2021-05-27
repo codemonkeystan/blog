@@ -11,7 +11,7 @@ enableRobotsTXT = true
 disqusShortname = "bananacoder-io"
 
 # Google Analytics
-#googleAnalytics = "G-1YT2Q81TDM"
+gtagId = "G-1YT2Q81TDM"
 
 # Syntax highlighting
 pygmentsUseClasses = true
