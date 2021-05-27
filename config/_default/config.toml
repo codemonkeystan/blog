@@ -1,0 +1,19 @@
+baseURL = "https://bananacoder.io"
+languageCode = "en"
+DefaultContentLanguage = "en"
+title = "Code tutorials and other ramblings"
+theme = "anatole-master"
+summarylength = 10
+enableEmoji = true
+enableRobotsTXT = true
+
+# Enable Disqus
+disqusShortname = "bananacoder-io"
+
+# Google Analytics
+#googleAnalytics = "UA-123-45"
+
+# Syntax highlighting
+pygmentsUseClasses = true
+pygmentsCodeFences = true
+pygmentsCodefencesGuessSyntax = true
